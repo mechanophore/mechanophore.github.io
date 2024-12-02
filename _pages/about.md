@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I’m an incoming postdoctoral researcher in the Pharmaceutical Chemistry department at the University of California San Francisco, where I will work with [William DeGrado](https://pharm.ucsf.edu/degrado). My research will use computational protein design to explore foundational principles in biological and macromolecular chemistry. You can find a list of my past publications [here](https://scholar.google.com/citations?user=kIddhX4AAAAJ&hl=en).
+Hi there! I’m an postdoctoral researcher in the Pharmaceutical Chemistry department at the University of California San Francisco, where I will work with [William DeGrado](https://pharm.ucsf.edu/degrado). My research uses _de novo_ protein design to explore foundational principles in mechanotransduction and macromolecular chemistry. You can find a list of my past publications [here](https://scholar.google.com/citations?user=kIddhX4AAAAJ&hl=en).
 
 During my doctoral research, I studied how mechanical forces influence chemical reactivity in macromolecules. Working with [Yan Xia](https://xialab.stanford.edu/), I  applied organic synthesis, polymer chemistry, materials characterization, and computational techniques to develop novel polymers with force-responsive motifs (mechanophores). This research helped establish design principles linking molecular structure, polymer properties, and force-coupled reaction mechanisms that will advance the development of new mechanophores.
 
